@@ -15,7 +15,7 @@ This project focuses on analyzing pollen data using computational tools to deriv
 
 ## Technologies Used  
 - **MATLAB**: For computational analysis and visualization.  
-- **Python (optional)**: For extended data processing and analysis.  
+- **Python**: For extended data processing and analysis.  
 - **Git**: Version control and collaboration.  
 
 ---
