@@ -1,4 +1,3 @@
-=======
 # Pollen Analysis Project  
 
 This project focuses on analyzing pollen data using computational tools to derive meaningful insights into their structure, properties, and impact. The project includes mathematical modeling, data analysis, and visualization techniques, making it a valuable resource for researchers and enthusiasts in the field of botany, environmental science, and computational biology.  
