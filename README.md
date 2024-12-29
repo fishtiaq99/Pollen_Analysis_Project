@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # Pollen Analysis Project  
 
